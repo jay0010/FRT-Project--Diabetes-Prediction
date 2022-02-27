@@ -1,0 +1,2 @@
+# FRT-Project--Diabetes-Prediction
+This repository comprises of files needed to deploy a Web App created with Flask on Microsoft Azure. It helps the user to identify whether one is suffering from diabetes by putting certain values of BMI, Glucose level, Blood pressure using a Kaggle database.  Analyzing the statistical data of these aspects and concluding if these impact an individual to be prone to diabetes or not. Also, it will be able to tell if the person has diabetes or not by entering those values.
